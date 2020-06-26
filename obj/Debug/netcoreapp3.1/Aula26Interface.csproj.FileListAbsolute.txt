@@ -1,0 +1,13 @@
+C:\Users\kermt\Documents\Projetos\Aula26Interface\bin\Debug\netcoreapp3.1\Aula26Interface.exe
+C:\Users\kermt\Documents\Projetos\Aula26Interface\bin\Debug\netcoreapp3.1\Aula26Interface.deps.json
+C:\Users\kermt\Documents\Projetos\Aula26Interface\bin\Debug\netcoreapp3.1\Aula26Interface.runtimeconfig.json
+C:\Users\kermt\Documents\Projetos\Aula26Interface\bin\Debug\netcoreapp3.1\Aula26Interface.runtimeconfig.dev.json
+C:\Users\kermt\Documents\Projetos\Aula26Interface\bin\Debug\netcoreapp3.1\Aula26Interface.dll
+C:\Users\kermt\Documents\Projetos\Aula26Interface\bin\Debug\netcoreapp3.1\Aula26Interface.pdb
+C:\Users\kermt\Documents\Projetos\Aula26Interface\obj\Debug\netcoreapp3.1\Aula26Interface.csprojAssemblyReference.cache
+C:\Users\kermt\Documents\Projetos\Aula26Interface\obj\Debug\netcoreapp3.1\Aula26Interface.csproj.CoreCompileInputs.cache
+C:\Users\kermt\Documents\Projetos\Aula26Interface\obj\Debug\netcoreapp3.1\Aula26Interface.AssemblyInfoInputs.cache
+C:\Users\kermt\Documents\Projetos\Aula26Interface\obj\Debug\netcoreapp3.1\Aula26Interface.AssemblyInfo.cs
+C:\Users\kermt\Documents\Projetos\Aula26Interface\obj\Debug\netcoreapp3.1\Aula26Interface.dll
+C:\Users\kermt\Documents\Projetos\Aula26Interface\obj\Debug\netcoreapp3.1\Aula26Interface.pdb
+C:\Users\kermt\Documents\Projetos\Aula26Interface\obj\Debug\netcoreapp3.1\Aula26Interface.genruntimeconfig.cache
