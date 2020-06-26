@@ -19,7 +19,6 @@ namespace Aula26Interface
             cart.Ler();
 
             cart.Excluir(p2);
-            System.Console.WriteLine($"{p2.Nome} removido do carrinho. O melhor dark souls é o 3");
 
             cart.Ler();
             

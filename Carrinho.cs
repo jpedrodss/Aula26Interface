@@ -18,6 +18,8 @@ namespace Aula26Interface
 
         public void Excluir(Produto _produto){
             carrinho.Remove(_produto);
+            System.Console.WriteLine($"{_produto.Nome} removido do carrinho.");
+
         }
 
         public void Ler(){
@@ -33,7 +35,9 @@ namespace Aula26Interface
             foreach (Produto item in carrinho){
                 ValorTotal += item.Preco;
             }
+            Console.ForegroundColor = System.ConsoleColor.Cyan;
             System.Console.WriteLine($"Valor total de itens: R${ValorTotal}.");
+            Console.ResetColor();
             System.Console.WriteLine("");
         }
     }
