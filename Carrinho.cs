@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace Aula26Interface
@@ -22,7 +23,9 @@ namespace Aula26Interface
         public void Ler(){
             System.Console.WriteLine("");
             foreach (Produto item in carrinho){
-                System.Console.WriteLine($"{item.Nome} - R${item.Preco}.");
+                Console.ForegroundColor = System.ConsoleColor.White;
+                Console.WriteLine($"{item.Nome} - R${item.Preco}.");
+                Console.ResetColor();
             }
             System.Console.WriteLine("");
         }
